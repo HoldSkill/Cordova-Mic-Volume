@@ -17,7 +17,7 @@ iOS
 Using
 -----
 Add to your build flow :
-  cordova plugin add https://github.com/shukriadams/micVolume.git
+  cordova plugin add https://github.com/HoldSkill/micVolume.git
 
 
     audioPoll.start(succesCallback, errorCallback);
